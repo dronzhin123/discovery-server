@@ -1,4 +1,4 @@
-package com.example.discovery_server;
+package com.example.discoveryserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
